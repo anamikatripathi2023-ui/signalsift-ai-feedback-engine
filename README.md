@@ -1,5 +1,7 @@
 # SignalSift: AI Voice-of-Customer Engine
 
+**[▶ Live demo](https://signal-feedback.streamlit.app/)**: try the dashboard in your browser, no install needed.
+
 **Turns thousands of raw user reviews into a ranked product backlog, and raises an alert when a new problem starts to spread.**
 
 Product teams get far more feedback than anyone can read. App reviews, support tickets and survey comments pile up, and the loudest anecdote often wins the roadmap debate. SignalSift reads all of it, finds the themes, measures how much each one hurts, spots sudden spikes, and ranks what to fix first with a transparent RICE score.
